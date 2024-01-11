@@ -1,2 +1,5 @@
-# class_demo
-demonstrating some Github features
+# Class Demonstration
+
+**bold** *italics*
+
+(here is a link)[https://www.nebrwesleyan.edu]
